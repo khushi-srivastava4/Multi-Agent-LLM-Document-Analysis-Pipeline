@@ -56,3 +56,14 @@ Entities:
    {"type": "EnergyTerm", "value": "100MW solar power"},
    {"type": "ContractValue", "value": "$50 million"}
  ]
+
+Document Type:
+ PPA
+
+Anomalies or Missing Fields:
+ None
+```
+
+## Notes
+- You can modify `main.py` to process your own documents.
+- The agents use LLMs and may incur API costs. 
